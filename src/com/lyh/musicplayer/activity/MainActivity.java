@@ -17,6 +17,8 @@ public class MainActivity extends SlidingFragmentActivity {
 	private final String MENU_FRAGMENT = "menuFragment";
 	
 	
+	
+	
     @Override
     public void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
